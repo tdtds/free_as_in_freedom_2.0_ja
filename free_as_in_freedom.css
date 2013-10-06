@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+body {
+    font-family: "ヒラギノ明朝 ProN W3", "HiraMinProN-W3", "ＭＳ明朝", serif;
+    font-size: 9pt;
+    padding: 0.5em;
+    line-height: 1.9;
+}
+
+h1 {
+    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", "ＭＳゴシック", sans-serif;
+    font-size: 2em;
+    color: rgb(64, 64, 64);
+    margin-bottom: 2ex;
+}
+
+p {
+    text-indent: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+blockquote {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-top: 2ex;
+    margin-bottom: 2ex;
+}
+
+blockquote p, div license p {
+    text-indent: 0;
+}
+
+div.lead {
+    text-align: right;
+    padding-bottom: 0.5ex;
+    border-bottom: dotted 1px rgb(220, 220, 255);
+}
+
+div.lead p {
+    text-indent: 0;
+    font-style: italic;
+    font-size: 0.9em;
+    margin-right: 2em;
+}
+
+/* FIXME:hrefと衝突するので、ReVIEWのfootnote側に何か補助情報を入れたい */
+/* p a {
+    vertical-align: super;
+    font-size: 0.9em;
+} */
+
+div.footnote {
+    font-size: 0.9em;
+    background-color: rgb(240, 240, 240);
+    padding: 0.2ex;
+}
+
+div.footnote p {
+    text-indent: -2em;
+    margin-left: 2em;
+}
