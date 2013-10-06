@@ -24,8 +24,7 @@ trl: 後藤洋/弓削光好
 rights: GNU Free Documentation License
 # description: ブックの説明
 #
-# coverfile: カバーページのbody要素内に挿入する内容を記述したファイル名
-#
+coverfile: cover.html
 coverimage: cover.jpg
 #
 # 固有IDに使用するドメイン。指定しない場合には、時刻に基づくランダムUUIDが入る
