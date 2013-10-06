@@ -17,6 +17,18 @@ h1 {
     padding-left: 0.2em;
 }
 
+h2 {
+    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", "ＭＳゴシック", sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", "ＭＳゴシック", sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 0;
+}
+
 p {
     text-indent: 1em;
     margin-top: 0;
@@ -30,8 +42,12 @@ blockquote {
     margin-bottom: 2ex;
 }
 
-blockquote p, div license p {
+blockquote p, div.license p {
     text-indent: 0;
+}
+
+b, strong {
+    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", "ＭＳゴシック", sans-serif;
 }
 
 div.lead {
