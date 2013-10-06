@@ -1,3 +1,4 @@
+//raw[|html|<div class="license">]
 This is an unofficial translation of the GNU Free Documentation License into Japanese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for document that uses the GFDL?only the original English text of the GFDL does that. However, we hope that this translation will help language speakers understand the GFDL better.
 
 以下は GNU 自由文書ライセンス（GFDL）の非公式な日本語訳です。これは自由ソフトウェア財団によって発表されたものではなく、GFDL を使った文書の配布条件を法的に有効な形で述べたものではありません。配布条件としては GFDL の英語版テキストで指定されているもののみが有効です。しかしながら、わたしたちはこの翻訳が日本語を使用する人びとが GFDL をより一層理解する助けとなることを望んでいます。
@@ -370,3 +371,4 @@ If you have Invariant Sections without Cover Texts, or some other combination of
 
 If your document contains nontrivial examples of program code, we recommend releasing these examples in parallel under your choice of free software license, such as the GNU General Public License, to permit their use in free software.
 
+//raw[|html|</div>]

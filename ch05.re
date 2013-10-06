@@ -196,7 +196,7 @@ The answer is, stick it in your ear. . .
 
 「ぼくらも行ってよしってことでしょう。」とストールマンは言った。
 
-後注
+==== 後注
 
 //footnote[1][アンドリュー・レオナルド「自由ソフトウェアの聖者」Salon.com (August 1998) http://www.salon.com/21st/feature/1998/08/cov_31feature.html を参照。]
 
