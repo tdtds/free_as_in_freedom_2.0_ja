@@ -44,11 +44,10 @@ div.lead p {
     margin-right: 2em;
 }
 
-/* FIXME:hrefと衝突するので、ReVIEWのfootnote側に何か補助情報を入れたい */
-/* p a {
+a.footnotemark {
     vertical-align: super;
     font-size: 0.9em;
-} */
+}
 
 div.footnote {
     font-size: 0.9em;
