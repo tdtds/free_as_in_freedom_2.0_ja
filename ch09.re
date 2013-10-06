@@ -333,7 +333,7 @@ GPL という取引を受け入れる知恵を持っていた若き日の自分�
 
 1991 年のストールマンの科学技術大学での講演と、それに続く GPL への切り替えという決定を回想してトーバルズは次のように書いている。「ちゃんと理解してはいなかったかもしれないが、少なくとも彼の話の一部は頭の中に染み込んだんだと思う。」@<fn>{23}
 
-後注
+==== 後注
 
 //footnote[1][Hal Abelson, Mike Fischer, and Joanne Costello, "Software and Copyright Law," 改訂版 (1998) を参照。 http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/software-copyright.html ]
 

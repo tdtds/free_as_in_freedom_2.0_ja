@@ -29,6 +29,13 @@ h3 {
     margin-bottom: 0;
 }
 
+h4 {
+    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", "ＭＳゴシック", sans-serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    border-top: dotted 1px rgb(64, 64, 128);
+}
+
 p {
     text-indent: 1em;
     margin-top: 0;
