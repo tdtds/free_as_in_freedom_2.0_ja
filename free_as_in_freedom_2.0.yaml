@@ -37,7 +37,7 @@ stylesheet: stylesheet.css
 # LaTeX用のdocumentclassを指定する
 # texdocumentclass: ["jsarticle", "b5paper,oneside"]
 # 目次として抽出するレベル
-toclevel: 3
+toclevel: 2
 # セクション番号を表示するレベル
 secnolevel: 2
 # EPUBのバージョン(現時点では2または3。デフォルトは2)
