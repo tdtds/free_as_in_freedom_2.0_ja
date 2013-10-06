@@ -12,6 +12,9 @@ h1 {
     font-size: 2em;
     color: rgb(64, 64, 64);
     margin-bottom: 2ex;
+    border-left: solid 6px rgb(64, 64, 128);
+    border-bottom: solid 1px rgb(64, 64, 128);
+    padding-left: 0.2em;
 }
 
 p {
