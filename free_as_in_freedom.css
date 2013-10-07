@@ -1,14 +1,14 @@
 @charset "utf-8";
 
 body {
-    font-family: "ヒラギノ明朝 ProN W3", "HiraMinProN-W3", "ＭＳ明朝", serif;
+    font-family: "ヒラギノ明朝 ProN W3", "HiraMinProN-W3", "メイリオ", serif;
     font-size: 9pt;
     padding: 0.5em;
     line-height: 1.9;
 }
 
 h1 {
-    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", "ＭＳゴシック", sans-serif;
+    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", sans-serif;
     font-size: 2em;
     color: rgb(64, 64, 64);
     margin-bottom: 2ex;
@@ -18,19 +18,19 @@ h1 {
 }
 
 h2 {
-    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", "ＭＳゴシック", sans-serif;
+    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", sans-serif;
     font-size: 1.5em;
     margin-bottom: 0;
 }
 
 h3 {
-    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", "ＭＳゴシック", sans-serif;
+    font-family: "ヒラギノ角ゴ ProN W6", "HiraKakuProN-W6", sans-serif;
     font-size: 1.2em;
     margin-bottom: 0;
 }
 
 h4 {
-    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", "ＭＳゴシック", sans-serif;
+    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", sans-serif;
     font-size: 1em;
     margin-bottom: 0;
     border-top: dotted 1px rgb(64, 64, 128);
@@ -54,7 +54,7 @@ blockquote p, p.noindent, div.license p {
 }
 
 p.flushright { /* 署名 */
-    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", "ＭＳゴシック", sans-serif;
+    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", sans-serif;
     font-size: 1.1em;
     line-height: 1.3;
     text-align: right;
@@ -64,7 +64,7 @@ p.flushright { /* 署名 */
 }
 
 b, strong {
-    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", "ＭＳゴシック", sans-serif;
+    font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", sans-serif;
 }
 
 div.lead {
@@ -115,7 +115,7 @@ h1.tp-title {
 }
 
 h2.tp-author {
-    font-family: "ヒラギノ明朝 ProN W3", "HiraMinProN-W3", "ＭＳ明朝", serif;
+    font-family: "ヒラギノ明朝 ProN W3", "HiraMinProN-W3", "メイリオ", serif;
     font-style: italic;
     font-size: 1.8em;
     text-align: right;
