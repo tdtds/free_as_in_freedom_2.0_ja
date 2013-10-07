@@ -49,7 +49,7 @@ blockquote {
     margin-bottom: 2ex;
 }
 
-blockquote p, div.license p {
+blockquote p, p.noindent, div.license p {
     text-indent: 0;
 }
 
