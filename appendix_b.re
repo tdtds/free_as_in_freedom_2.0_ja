@@ -1,3 +1,5 @@
+= ライセンス
+
 //raw[|html|<div class="license">]
 This is an unofficial translation of the GNU Free Documentation License into Japanese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for document that uses the GFDL?only the original English text of the GFDL does that. However, we hope that this translation will help language speakers understand the GFDL better.
 
