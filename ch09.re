@@ -353,7 +353,7 @@ GPL という取引を受け入れる知恵を持っていた若き日の自分�
 
 //footnote[9][『HURD の歴史』を参照。 http://www.gnu.org/software/hurd/history.html ]
 
-//footnote[10][プログラミングの自由同盟プレスリリースによれば、この抗議行動は、十六進プロテスト数え唄が始めて歌われたことで著名である。『1-2-3-4、弁護士はドアから外に放り出せ / 5-6-7-8、発明しろ（innovate）、訴訟（litigate）をするな / 9-A-B-C、1-2-3 はいらないぞ / D-E-F-O、ルックアンドフィールはもうお仕舞い』 http:// progfree.org/Links/prep.ai.mit.edu/demo.final.release ]
+//footnote[10][プログラミングの自由同盟プレスリリースによれば、この抗議行動は、十六進プロテスト数え唄が始めて歌われたことで著名である。『1-2-3-4、弁護士はドアから外に放り出せ / 5-6-7-8、発明しろ（innovate）、訴訟（litigate）をするな / 9-A-B-C、1-2-3 はいらないぞ / D-E-F-O、ルックアンドフィールはもうお仕舞い』 http://progfree.org/Links/prep.ai.mit.edu/demo.final.release ]
 
 //footnote[11][Reuven Lerner, "Stallman wins $240,000 MacArthur award," MIT, The Tech (July 18, 1990). http://the-tech.mit.edu/V110/N30/rms.30n.html を参照。]
 
