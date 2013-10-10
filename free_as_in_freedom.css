@@ -72,6 +72,14 @@ b, strong {
     font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", sans-serif;
 }
 
+div.image {
+    margin: 2em auto;
+    text-align: center;
+}
+div.image img {
+    max-width: 90%;
+}
+
 div.lead {
     text-align: right;
     padding-bottom: 0.5ex;
