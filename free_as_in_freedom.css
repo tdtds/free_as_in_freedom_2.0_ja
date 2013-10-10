@@ -53,6 +53,11 @@ blockquote p, p.noindent, div.license p {
     text-indent: 0;
 }
 
+div.history p {
+    text-indent: 0;
+    margin-bottom: 1em;
+}
+
 p.flushright { /* 署名 */
     font-family: "ヒラギノ角ゴ ProN W3", "HiraKakuProN-W3", sans-serif;
     font-size: 1.1em;
