@@ -9,14 +9,14 @@ Copyright (C) 2013 Yo Goto, Mitsuyosi Yuge
 
 This work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License.
 
-http://creativecommons.org/licenses/by-nd/3.0/
+@<href>{http://creativecommons.org/licenses/by-nd/3.0/}
 
 この非公式な日本語訳は クリエイティブ・コモンズ 表示 - 改変禁止 3.0 非移植のライセンスの下に提供されています。
 
 == GNU 自由文書ライセンス
-1.3 版 2008 年 11 月 3 日
-Copyright (C) 2000, 2001, 2002, 2007, 2008 自由ソフトウェア財団
-http://fsf.org/
+1.3 版 2008 年 11 月 3 日@<br>{}
+Copyright (C) 2000, 2001, 2002, 2007, 2008 自由ソフトウェア財団@<br>{}
+@<href>{http://fsf.org/}
 
 このライセンスを一字一句そのまま複製し頒布することをすべての人に許可しますが、変更は認めません。
 
