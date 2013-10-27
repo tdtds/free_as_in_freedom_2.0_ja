@@ -9,7 +9,8 @@ Published by O'Reilly & Associates, Inc
 "Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution"@<br>{}
 2010@<br>{}
 By Sam Williams, Richard M. Stallman@<br>{}
-Published by the Free Software Foundation, Inc
+Published by the Free Software Foundation, Inc@<br>{}
+Digital versions of the book, including the LATEX source code, are available at @<href>{http://www.fsf.org/faif}. Improvements are welcome, and can be sent to sales@gnu.org.
 
 "自由としてのフリー(2.0)リチャード・ストールマンと自由ソフトウェア革命"@<br>{}
 2013@<br>{}
