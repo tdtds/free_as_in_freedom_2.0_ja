@@ -223,7 +223,7 @@ The answer is, stick it in your ear...
 
 //footnote[4][レアンダー・カーニー（1999）を参照。]
 
-//footnote[5][当時、ストールマンは花の学名を言っているのだと思っていたが、数ヶ月後、実は "rhinophytophilia" とはその仕草 -- つまり、ストールマンが鼻を花につっこんでその瞬間を楽しんでいたこと -- へのこっけいな言及だったことがわかった。それは、植物と鼻でセックスするという変態行為を表していたのだ。 ストールマンの花に関する別のユーモラスな出来事はこちらへ。 http://www.stallman.org/articles/texas.html ]
+//footnote[5][当時、ストールマンは花の学名を言っているのだと思っていたが、数ヶ月後、実は "rhinophytophilia" とはその仕草──つまり、ストールマンが鼻を花につっこんでその瞬間を楽しんでいたこと──へのこっけいな言及だったことがわかった。それは、植物と鼻でセックスするという変態行為を表していたのだ。 ストールマンの花に関する別のユーモラスな出来事はこちらへ。 http://www.stallman.org/articles/texas.html ]
 
 //footnote[6][Cecily Barnes and Scott Ard, "Court Grants Stay of Napster Injunction," News.com (July 28, 2000)「裁判所がナップスター差し止め命令の執行停止を認める」セシリー・バーンズ、スコット・アード、（2000 年 7 月 28 日）News.com を参照。 http://news.cnet.com/news/0-1005-200-2376465.html ]
 
