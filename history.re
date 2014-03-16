@@ -13,10 +13,10 @@ Published by the Free Software Foundation, Inc@<br>{}
 Digital versions of the book, including the LATEX source code, are available at @<href>{http://www.fsf.org/faif}. Improvements are welcome, and can be sent to sales@gnu.org.
 
 "自由としてのフリー(2.0)リチャード・ストールマンと自由ソフトウェア革命"@<br>{}
-2013@<br>{}
+2014@<br>{}
 By Yo Goto, Mitsuyosi Yuge
 Original versions of the book on PukiWiki at @<href>{http://haleakala-avenue.style.coocan.jp/lealea/}.
 
-2013@<br>{}
+2014@<br>{}
 Published by TADA Tadashi
 //raw[|html|</div>]
