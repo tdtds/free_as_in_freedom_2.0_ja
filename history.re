@@ -10,13 +10,16 @@ Published by O'Reilly & Associates, Inc
 2010@<br>{}
 By Sam Williams, Richard M. Stallman@<br>{}
 Published by the Free Software Foundation, Inc@<br>{}
-Digital versions of the book, including the LATEX source code, are available at @<href>{http://www.fsf.org/faif}. Improvements are welcome, and can be sent to sales@gnu.org.
+@<href>{http://www.fsf.org/faif}
+
+"自由としてのフリー(2.0)リチャード・ストールマンと自由ソフトウェア革命"@<br>{}
+2013@<br>{}
+By Yo Goto, Mitsuyosi Yuge@<br>{}
+Published by Yo Goto, Mitsuyosi Yuge@<br>{}
+@<href>{http://haleakala-avenue.style.coocan.jp/lealea/}
 
 "自由としてのフリー(2.0)リチャード・ストールマンと自由ソフトウェア革命"@<br>{}
 2014@<br>{}
-By Yo Goto, Mitsuyosi Yuge
-Original versions of the book on PukiWiki at @<href>{http://haleakala-avenue.style.coocan.jp/lealea/}.
-
-2014@<br>{}
-Published by TADA Tadashi
+Published by TADA Tadashi@<br>{}
+@<href>{https://github.com/tdtds/free_as_in_freedom_2.0_ja}
 //raw[|html|</div>]
