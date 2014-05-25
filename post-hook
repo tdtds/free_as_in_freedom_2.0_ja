@@ -1,0 +1,2 @@
+#!/bin/sh
+sed -i -e 's/Stallman<\/h2>/Stallman・著<\/h2>\n<h2 class="tp-author">後藤洋 \/ 弓削光好・訳<\/h2>/' $1/OEBPS/top.html
