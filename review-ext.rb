@@ -12,10 +12,6 @@ module ReVIEW
       end
     end
 
-    def inline_fn(id)
-      %Q(<a href="#fn-#{id}" class="footnotemark">*#{@chapter.footnote(id).number}</a>)
-    end
-
     def footnote(id, str)
       puts %Q(<div class="footnote" epub:type="footnote" id="fn-#{id}"><p clas
 s="footnote">[*#{id}] #{compile_inline(str)}</p></div>
@@ -23,7 +19,7 @@ s="footnote">[*#{id}] #{compile_inline(str)}</p></div>
     end
 
     def inline_fn(id)
-      %Q(<a href="#fn-#{id}" class="noteref" epub:type="noteref">*#{id}</a>)
+      %Q(<a href="#fn-#{id}" class="footnotemark" epub:type="noteref">*#{id}</a>)
     end
 
   end
