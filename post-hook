@@ -1,5 +1,5 @@
 #!/bin/sh
-sed -i -e 's/\*0</</' $1/OEBPS/toc.html
-sed -i -e 's/Stallman<\/h2>/Stallman・著<\/h2>\n<h2 class="tp-author">後藤洋 \/ 弓削光好・訳<\/h2>/' $1/OEBPS/top.html
-sed -i -e 's/<itemref idref="toc" \/>//' -e 's/<itemref idref="rv-intro" \/>/<itemref idref="toc" \/>\n&/' $1/OEBPS/free_as_in_freedom_2.0_ja.opf
-sed -i -e 's/\*0</</' $1/OEBPS/free_as_in_freedom_2.0_ja.ncx
+ruby -i -pe '$_.sub! /\*0</, "<"' $1/OEBPS/toc.html
+ruby -i -pe '$_.sub! %r[Stallman</h2>], %Q[Stallman・著</h2>\n<h2 class="tp-author">後藤洋 / 弓削光好・訳</h2>]' $1/OEBPS/top.html
+ruby -i -pe '$_.sub! %r[<itemref idref="toc" />], ""; $_.sub! %r[<itemref idref="rv-intro" />], %Q[<itemref idref="toc" />\n<itemref idref="rv-intro" />]' $1/OEBPS/free_as_in_freedom_2.0_ja.opf
+ruby -i -pe '$_.sub! /\*0</, "<"' $1/OEBPS/free_as_in_freedom_2.0_ja.ncx
