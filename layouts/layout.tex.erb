@@ -240,6 +240,7 @@
 \mainmatter
 <%= values["chap_str"] %>
 \renewcommand{\chaptermark}[1]{\markboth{\appendixname\thechapter~#1}{}}
+
 \reviewappendix
 <%= values["post_str"] %>
 
@@ -250,8 +251,8 @@
 
 \vspace*{\fill}
 
-{\noindent\reviewtitlefont\Large <%= values["booktitle"] %>} \\
-\rule[8pt]{14cm}{1pt} \\
+{\noindent\reviewtitlefont\Large 自由としてのフリー(2.0)\newline リチャード・ストールマンと自由ソフトウェア革命} \\
+\rule[8pt]{11cm}{1pt} \\
 {\noindent
 <%= values["pubhistory"].to_s.gsub(/\n/){"\n\n\\noindent"} %>
 }
@@ -260,7 +261,7 @@
 <%= okuduke %>
 \end{tabular}
 　\\
-\rule[0pt]{14cm}{1pt} \\
+\rule[0pt]{11cm}{1pt} \\
 <%= values["rights"] %> \\
 <% end %>
 
