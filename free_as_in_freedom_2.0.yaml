@@ -56,3 +56,5 @@ posthook: ./post-hook
 params: --stylesheet=free_as_in_freedom.css
 # デバッグフラグ。nilでないときには一時ファイルをカレントディレクトリに作成し、削除もしない
 # debug: nil
+texstyle: tatsumacro
+texdocumentclass: ["jsbook", "oneside,17pt"]
