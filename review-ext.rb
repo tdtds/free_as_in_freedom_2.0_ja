@@ -13,9 +13,7 @@ module ReVIEW
     end
 
     def footnote(id, str)
-      puts %Q(<div class="footnote" epub:type="footnote" id="fn-#{id}"><p clas
-s="footnote">[*#{id}] #{compile_inline(str)}</p></div>
-)
+      puts %Q(<div class="footnote" epub:type="footnote" id="fn-#{id}"><p class="footnote">[*#{id}] #{compile_inline(str)}</p></div>)
     end
 
     def inline_fn(id)
