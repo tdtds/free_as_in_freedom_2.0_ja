@@ -192,13 +192,13 @@ Lisp マシン社で働いていたプログラマ、ロバート・シャッセ
 
 //footnote[6][同書。]
 
-//footnote[7][複数の出典がある。リチャード・ストールマンとのインタビュー、ジェラルド・サスマンの電子メール、ジャーゴン・ファイル 3.0.0 を参照。 http://catb.org/jargon/html/T/TWENEX.html ]
+//footnote[7][複数の出典がある。リチャード・ストールマンとのインタビュー、ジェラルド・サスマンの電子メール、ジャーゴン・ファイル 3.0.0 を参照。 @<href>{http://catb.org/jargon/html/T/TWENEX.html} ]
 
-//footnote[8][次を参照。 http://www.as.cmu.edu/geek/humor/See_Figure_1.txt ]
+//footnote[8][次を参照。 @<href>{http://www.as.cmu.edu/geek/humor/See_Figure_1.txt} ]
 
 //footnote[9][リチャード・ストールマン（1986年）を参照。]
 
-//footnote[10][『MIT AI ラボ観光客ポリシー』を参照。 http://www.art.net/hopkins/Don/text/tourist-policy.html ]
+//footnote[10][『MIT AI ラボ観光客ポリシー』を参照。 @<href>{http://www.art.net/hopkins/Don/text/tourist-policy.html} ]
 
 //footnote[11][リチャード・ストールマン（1986年）を参照。]
 
@@ -212,13 +212,13 @@ Lisp マシン社で働いていたプログラマ、ロバート・シャッセ
 
 //footnote[16][Steven Levy, Hackers (Penguin USA [paperback\], 1984): 426 日本語訳は、『ハッカーズ』スティーブン・レビー（工学社）]
 
-//footnote[17][Bill Gates, "An Open Letter to Hobbyists" (February 3, 1976) 『ホビイストへの公開状』ビル・ゲイツ（1976年2月3日）。この公開状のオンライン上のコピーは次のサイトで見ることができる。 http://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ]
+//footnote[17][Bill Gates, "An Open Letter to Hobbyists" (February 3, 1976) 『ホビイストへの公開状』ビル・ゲイツ（1976年2月3日）。この公開状のオンライン上のコピーは次のサイトで見ることができる。 @<href>{http://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists} ]
 
-//footnote[18][次を参照。ストールマンはこの声明に脚注を加えて、「無神論者の一人として、宗教指導者に従うことはないが、彼らの中の或る者が述べた言葉に感心している自分に気付くことがある。」と書いている。 http://www.gnu.org/gnu/the-gnu-project.html ]
+//footnote[18][次を参照。ストールマンはこの声明に脚注を加えて、「無神論者の一人として、宗教指導者に従うことはないが、彼らの中の或る者が述べた言葉に感心している自分に気付くことがある。」と書いている。 @<href>{http://www.gnu.org/gnu/the-gnu-project.html} ]
 
 //footnote[19][Richard Stallman, "The GNU Operating System and the Free Software Movement," Open Sources (O'Reilly & Associates, Inc., 1999): 65.を参照。「GNU システムとフリーソフトウェア運動」、リチャード・ストールマン、『オープンソース』（株式会社オライリー・ジャパン、1999 年）。]
 
 //footnote[20][リチャード・ストールマン（1986 年）]
 
-//footnote[21][『GNU宣言』（1985 年）リチャード・ストールマン http://www.gnu.org/gnu/manifesto.html ]
+//footnote[21][『GNU宣言』（1985 年）リチャード・ストールマン @<href>{http://www.gnu.org/gnu/manifesto.html} ]
 

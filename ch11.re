@@ -137,21 +137,21 @@ Netscape の CEO ジム・バークスデール（Jim Barksdale）が、会社�
 
 ==== 後注
 
-//footnote[1][Peter Salus, "FYI-Conference on Freely Redistributable Software, 2/2, Cambridge" (1995) (archived by Terry Winograd) ピーター・サルス『FYI - 自由に再配布可能なソフトウエア、2月2日、ケンブリッジ』（1995）を参照。（テリー・ウィノグラッドによりアーカイブ） http://bat8.inria.fr/~lang/hotlist/free/licence/fsf96/call-for-papers.html ]
+//footnote[1][Peter Salus, "FYI-Conference on Freely Redistributable Software, 2/2, Cambridge" (1995) (archived by Terry Winograd) ピーター・サルス『FYI - 自由に再配布可能なソフトウエア、2月2日、ケンブリッジ』（1995）を参照。（テリー・ウィノグラッドによりアーカイブ） @<href>{http://bat8.inria.fr/~lang/hotlist/free/licence/fsf96/call-for-papers.html} ]
 
-//footnote[2][リーナス・トーバルズはフィンランド人だが、母語はスウェーデン語である。『The Rampantly Unofficial Linus FAQ』に簡潔な説明がある。 http://catb.org/~esr/faqs/linus/ 『フィンランドには、無視できない数(約6%)のスウェーデン語を話すマイノリティ人口がある。彼らは自らを「finlandssvensk」あるいは「finlandssvenskar」と呼び、自分たちをフィンランド人だと考えている。彼らの家族の多くは、数世紀に渡ってフィンランドで暮らしてきた。スウェーデン語は、フィンランドの二つの公用語の一つである。』]
+//footnote[2][リーナス・トーバルズはフィンランド人だが、母語はスウェーデン語である。『The Rampantly Unofficial Linus FAQ』に簡潔な説明がある。 @<href>{http://catb.org/~esr/faqs/linus/} 『フィンランドには、無視できない数(約6%)のスウェーデン語を話すマイノリティ人口がある。彼らは自らを「finlandssvensk」あるいは「finlandssvenskar」と呼び、自分たちをフィンランド人だと考えている。彼らの家族の多くは、数世紀に渡ってフィンランドで暮らしてきた。スウェーデン語は、フィンランドの二つの公用語の一つである。』]
 
 //footnote[3][ブルックスの法則とは、ブルックスの著作の次の引用を手短に要約したものだ。『ソフトウェアの構築は、本来体系的な活動──複雑な相互関係を伴う実践──であるから、物事を伝えるための労力も並大抵ではなく、それが分業がもたらす個々人の作業時間の節減分をすぐに食い潰すようになる。だから、増員はスケジュールの短縮ではなく遅延をもたらす。』Fred P. Brooks, The Mythical Man-Month (Addison Wesley Publishing, 1995) フレッド・P・ブルックス『人月の神話』（アジソン・ウェズレー出版、1995年）を参照。]
 
-//footnote[4][Eric Raymond, "The Cathedral and the Bazaar" (1997) を参照。日本語訳、エリック・レイモンド『伽藍とバザール』http://cruel.org/freeware/cathedral.html ]
+//footnote[4][Eric Raymond, "The Cathedral and the Bazaar" (1997) を参照。日本語訳、エリック・レイモンド『伽藍とバザール』@<href>{http://cruel.org/freeware/cathedral.html} ]
 
-//footnote[5][Malcolm Maclachlan, "Profit Motive Splits Open Source Movement（儲け主義がオープンソース運動を分裂させる）," TechWeb News (August 26, 1998）を参照。 http://www.techweb.com/article/showArticle? articleID=29102344 ]
+//footnote[5][Malcolm Maclachlan, "Profit Motive Splits Open Source Movement（儲け主義がオープンソース運動を分裂させる）," TechWeb News (August 26, 1998）を参照。 @<href>{http://www.techweb.com/article/showArticle? articleID=29102344} ]
 
 //footnote[6][前掲書]
 
-//footnote[7][Bruce Perens et al., "The Open Source Definition," The Open Source Initiative (1998) ブルース・ペレンズ他『オープンソースの定義』オープンソース・イニシアティブ(1998年) を参照。 http://www.opensource.org/docs/definition.html ]
+//footnote[7][Bruce Perens et al., "The Open Source Definition," The Open Source Initiative (1998) ブルース・ペレンズ他『オープンソースの定義』オープンソース・イニシアティブ(1998年) を参照。 @<href>{http://www.opensource.org/docs/definition.html} ]
 
-//footnote[8][Amy Harmon, "For Sale: Free Operating System," New York Times (September 28, 1998) アミー・ハーモン『売出し中：自由なオペレーティング・システム』ニューヨーク・タイムズ（1998年9月28日）を参照。 http://www.nytimes.com/library/tech/98/09/biztech/articles/28linux.html ]
+//footnote[8][Amy Harmon, "For Sale: Free Operating System," New York Times (September 28, 1998) アミー・ハーモン『売出し中：自由なオペレーティング・システム』ニューヨーク・タイムズ（1998年9月28日）を参照。 @<href>{http://www.nytimes.com/library/tech/98/09/biztech/articles/28linux.html} ]
 
-//footnote[9][John Markoff, "Apple Adopts `Open Source' for its Server Computers," New York Times (March 17, 1999) ジョン・マーコフ『アップル、サーバー・コンピュータに「オープンソース」を採用』ニューヨーク・タイムズ（1999年3月17日）を参照。 http://www.nytimes.com/library/tech/99/03/biztech/articles/17apple.html ]
+//footnote[9][John Markoff, "Apple Adopts `Open Source' for its Server Computers," New York Times (March 17, 1999) ジョン・マーコフ『アップル、サーバー・コンピュータに「オープンソース」を採用』ニューヨーク・タイムズ（1999年3月17日）を参照。 @<href>{http://www.nytimes.com/library/tech/99/03/biztech/articles/17apple.html} ]
 

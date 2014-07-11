@@ -104,21 +104,21 @@ Linux を GNU プロジェクトの「一種」と記述するのを、政治的
 
 ==== 後注
 
-//footnote[1][ここで引用したような発言を、トーバルズは複数の機会に行っている。だが、今のところ、この引用で一番有名なのは、エリック・レイモンドのエッセー『カテドラルとバザール』（日本語訳に 山形浩生『伽藍とバザール』がある）の中のものだ。http://catb.org/esr/writings/homesteading/cathedral-bazaar/ http://cruel.org/freeware/cathedral.html ]
+//footnote[1][ここで引用したような発言を、トーバルズは複数の機会に行っている。だが、今のところ、この引用で一番有名なのは、エリック・レイモンドのエッセー『カテドラルとバザール』（日本語訳に 山形浩生『伽藍とバザール』がある）の中のものだ。@<href>{http://catb.org/esr/writings/homesteading/cathedral-bazaar/} @<href>{http://cruel.org/freeware/cathedral.html} ]
 
 //footnote[2][Simson Garfinkel, "Is Stallman Stalled?" Wired (March, 1993) シムソン・ガーフィンケル『ストールマン失速か？』Wired (1993 年 3 月)を参照。]
 
-//footnote[3][新しいオペレーティング・システムに 36 ヵ月間だけ開いていた「窓」に関するシャッセルの懸念は、GNU プロジェクトに固有の問題ではない。1990 年代の始め、自由ソフトウェア版の BSD は、BSD からの派生ソフトウェアのリリースを制限しようとする Unix システム研究所の訴訟によって、お手上げ状態になった。多くのユーザーが、BSD から分家した FreeBSD や OpenBSD は、性能面でもセキュリティ面でも GNU/Linux を凌駕していると思っているが、FreeBSD や OpenBSD のユーザー数は、GNU/Linux ユーザーの総人口に比べれば、ほんの一握りに過ぎない。 / GNU/Linux が、他の自由ソフトウェアのオペレーティング・システムに対して、相対的に成功したことの分析例としては、ニュージーランドのハッカー、リアム・グリーンウッド（Liam Greenwood）の 1999 年のエッセー、"Why is Linux Successful"（Linux 成功の理由）を参照。 http://www.freebsddiary.org/linux.php ]
+//footnote[3][新しいオペレーティング・システムに 36 ヵ月間だけ開いていた「窓」に関するシャッセルの懸念は、GNU プロジェクトに固有の問題ではない。1990 年代の始め、自由ソフトウェア版の BSD は、BSD からの派生ソフトウェアのリリースを制限しようとする Unix システム研究所の訴訟によって、お手上げ状態になった。多くのユーザーが、BSD から分家した FreeBSD や OpenBSD は、性能面でもセキュリティ面でも GNU/Linux を凌駕していると思っているが、FreeBSD や OpenBSD のユーザー数は、GNU/Linux ユーザーの総人口に比べれば、ほんの一握りに過ぎない。 / GNU/Linux が、他の自由ソフトウェアのオペレーティング・システムに対して、相対的に成功したことの分析例としては、ニュージーランドのハッカー、リアム・グリーンウッド（Liam Greenwood）の 1999 年のエッセー、"Why is Linux Successful"（Linux 成功の理由）を参照。 @<href>{http://www.freebsddiary.org/linux.php} ]
 
 //footnote[4][マウイ高性能計算センターでのスピーチ（ "Maui High Performance Computing Center Speech" ）を参照。 / 後日、私はメールで、「タイミングバグ」の正確な意味を尋ねてみた。ストールマンによれば、「タイミングエラー」と言う方が問題を適切に要約しているとのことで、タイミングエラーがオペレーティング・システムの実行をどのように妨げるかについて、明解な技術情報を提供してくれた。『「タイミングエラー」は非同期システムの中で発生します。非同期システムでは、並行して実行されるジョブは、理論的には任意の順序で起動可能ですが、ある特定の順序で起動されたときに問題が発生します。プログラム A が行う処理を X、プログラム B が行う処理を Y とし、X も Y も同一のデータ構造を検査して更新する短い処理だとしましょう。ほとんどの場合、コンピュータは、Y の前に X を行うか、X の前に Y を行うかで問題は起こりません。だが、稀に、たまたまスケジューラがプログラム A を実行し、処理 X の途中で、処理 Y を行うプログラム B を実行する場合があります。すると、Y は X の途中で実行されることになる。これらは同じデータ構造を更新するので、互いに影響し合うのです。例えば、X はおそらくデータ構造の検査を終っていて、変更があったことを気づかないでしょう。そこで、再現しづらいエラーが発生することになる。再現しづらいのは、偶然の要因に（スケジューラがどのプログラムをどれだけの時間実行するかを決定するときのような）左右されるからです。こうしたエラーを回避するには、X と Y が同時に実行されないことを保証するために、ロックを用いる方法があります。非同期システムを書くプログラマーは、ロックの一般的な必要性は理解しているのですが、ときどき、特定の場所やデータ構造で必要なロックを見過ごします。すると、そのプログラムにはタイミングエラーが存在することになるのです。』]
 
-//footnote[5][GNU/Linux のユーザ人口は、せいぜい概算しか手に入らないため、こんなに範囲が広くなっている。10 万人という数字は、レッドハットの『マイルストーン』からのもの。 http://www.redhat.com/about/corporate/milestones.html ]
+//footnote[5][GNU/Linux のユーザ人口は、せいぜい概算しか手に入らないため、こんなに範囲が広くなっている。10 万人という数字は、レッドハットの『マイルストーン』からのもの。 @<href>{http://www.redhat.com/about/corporate/milestones.html} ]
 
 //footnote[6][このようにウィンストン・チャーチルになぞらえたのは、ストールマン自身がチャーチルに関する次のコメントを、頼まれないのに送ってくれたときよりも前のことである。『第二次世界大戦とその勝利に必要とされた決意とは、ぼくの成長期の強烈な思い出だ。「我々は上陸地点で彼らと戦うのだ、浜辺で彼らと戦うのだ……我々は絶対に降伏しない」というようなチャーチルの演説は、いつもぼくの中で鳴り響いていた。』]
 
-//footnote[7][イアン・マードック『Debian 小史』(1994年1月6日)：付録 A、『Debian 宣言』。http://www.debian.org/doc/manuals/project-history/apA.html ]
+//footnote[7][イアン・マードック『Debian 小史』(1994年1月6日)：付録 A、『Debian 宣言』。@<href>{http://www.debian.org/doc/manuals/project-history/apA.html} ]
 
-//footnote[8][元 Lucid のプログラマーで、後に Mozilla 開発チームを率いることになる、ジェイミー・ザウィンスキー（Jamie Zawinski）のウェブサイトに、Lucid/GNU Emacs のフォークに関するドキュメントがある。タイトルは、『Lemacs/FSFmacsの分裂』。 http://www.jwz.org/doc/lemacs.html / それらの非難に対するストールマンの反応は、 http://stallman.org/articles/xemacs.origin ]
+//footnote[8][元 Lucid のプログラマーで、後に Mozilla 開発チームを率いることになる、ジェイミー・ザウィンスキー（Jamie Zawinski）のウェブサイトに、Lucid/GNU Emacs のフォークに関するドキュメントがある。タイトルは、『Lemacs/FSFmacsの分裂』。 @<href>{http://www.jwz.org/doc/lemacs.html} / それらの非難に対するストールマンの反応は、 @<href>{http://stallman.org/articles/xemacs.origin} ]
 
 //footnote[9][1996 年 6 月の Debian Buzz は、その Contrib section に自由なものではない Netscape 3.01 を含んでいた。]
 

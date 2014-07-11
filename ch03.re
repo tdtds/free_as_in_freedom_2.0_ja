@@ -126,7 +126,7 @@
 
 ==== 後注
 
-//footnote[1][この章の背景の主な出典は、マイケル・グロス（Michael Gross）によるインタビューの『リチャード・ストールマン。高校の不適応児、自由ソフトウェアのシンボル、マッカーサー奨学金の天才』（"Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius"）である。グロスは、いわゆる「ベビー・ブーム」世代の注目すべき人物に関する 1999 年のインタビューを集めた本、"Talking About My Generation" の著者である。ストールマンはインタビューをこの本に入れさせなかったが、Gross は、本のウェブサイトでオンライン版の追補としてこのインタビューを公表した。私が初めてそれを見つけて以来、その URL は何度か変更されている。それを探してくれた何人もの読者によると、そのインタビューは今はここで見つかるそうだ。[訳者;サイト内を "Richard Stallman" で検索するとよい\] http://www.mgross.com/MoreThgsChng/interviews/stallman1.html]
+//footnote[1][この章の背景の主な出典は、マイケル・グロス（Michael Gross）によるインタビューの『リチャード・ストールマン。高校の不適応児、自由ソフトウェアのシンボル、マッカーサー奨学金の天才』（"Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius"）である。グロスは、いわゆる「ベビー・ブーム」世代の注目すべき人物に関する 1999 年のインタビューを集めた本、"Talking About My Generation" の著者である。ストールマンはインタビューをこの本に入れさせなかったが、Gross は、本のウェブサイトでオンライン版の追補としてこのインタビューを公表した。私が初めてそれを見つけて以来、その URL は何度か変更されている。それを探してくれた何人もの読者によると、そのインタビューは今はここで見つかるそうだ。[訳者;サイト内を "Richard Stallman" で検索するとよい\] @<href>{http://www.mgross.com/MoreThgsChng/interviews/stallman1.html}]
 
 //footnote[2][RMS: 彼女にこういう話をした記憶はない。言えるのは、今ではこういう見解には全く同意できないということだけだ。私は十代の頃、大半の人が人生で遭遇する困窮への同情を欠いていた。私の問題は別のところにあった。私たちがあらゆるレベルで困窮が止まるように組織しない限り、金持ちがいかにして大半の人々を貧困に陥れるかを、私は認識していなかった。多くの人々にとって、節約せずにお金を全部使ってしまうような、愚かな事をする社会的圧力に抵抗するのがいかに難しいか、私は理解していなかった。私は私自身に対する圧力にさえほとんど気づいていなかったのだ。さらに、60 年代の労働組合はその頃非常に強力だったが、しばしば傲慢で腐敗していた。だが今日、組合はとても弱い。その結果、経済成長のときでも、ほとんど金持ちにだけ利益を与えているのである。]
 
@@ -134,7 +134,7 @@
 
 //footnote[4][次を参照。Judy Steed, Toronto Star, BUSINESS, (October 9, 2000): C03. 『自由ソフトウェアと社会的協力という彼のビジョンは、彼の私生活が孤立しているのとは対照的だ。グレン・グールドのような変わり者。このカナダのピアニストも、同じように、輝かしく、歯切れ良く、孤独だった。ストールマン自身も、自閉症に苦しんでいるのだと、ある程度考えていた。自閉症とは、彼が言う、ひとと付き合うことが難しいという状況である。』]
 
-//footnote[5][次を参照。Steve Silberman, "The Geek Syndrome," Wired (December, 2001), http://www.wired.com/wired/archive/9.12/aspergers_pr.html.]
+//footnote[5][次を参照。Steve Silberman, "The Geek Syndrome," Wired (December, 2001), @<href>{http://www.wired.com/wired/archive/9.12/aspergers_pr.html}.]
 
 //footnote[6][次を参照。John Ratey and Catherine Johnson, "Shadow Syndromes."]
 

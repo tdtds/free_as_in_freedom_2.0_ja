@@ -391,7 +391,7 @@ AI ラボでのハッキングだけがストールマンの自信を強める�
 
 //footnote[8][いまだに多くのハッカーが、ハッカー精神の縮図と見ている ITS の創世紀を駆け足で要約してしまって申し訳ない。このプログラムの政治的な意義についてもっと知りたい向きは、Simson Garfinkel, Architects of the Information Society: Thirty-Five Years of the Laboratory for Computer Science at MIT (MIT Press, 1999) シムソン・ガーフィンケル『情報社会の建築家たち：MIT コンピュータ科学研究所の 35 年』(MIT Press、1999 年)を参照されたい。]
 
-//footnote[9][リチャード・ストールマン『RMS KTH 講義(スウェーデン)』(1986年10月30日)を参照。 http://www.gnu.org/philosophy/stallman-kth.html]
+//footnote[9][リチャード・ストールマン『RMS KTH 講義(スウェーデン)』(1986年10月30日)を参照。 @<href>{http://www.gnu.org/philosophy/stallman-kth.html}]
 
 //footnote[10][本書が編集の最終段階に入って間もなく、ストールマンは、電子メールで、ハーヴァードのキャンパスでも、政治的なひらめきを得たと言ってきた。「ハーヴァードの初年度に、中国史の授業で、秦王朝に対する最初の反乱について読みました」と彼は言う。（秦の残酷な建国者は、全ての本を焼き、素焼きの戦士とともに葬られた。）「この物語は歴史としては信用できませんでしたが、感動しました。」]
 

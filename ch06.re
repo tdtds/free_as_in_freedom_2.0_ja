@@ -148,7 +148,7 @@ AI ラボのストールマンの同期たちは、さらに寛大だ。1970 年
 
 ==== 後注
 
-//footnote[1][Josh McHugh, "For the Love of Hacking," Forbes (August 10, 1998) ジョッシュ・マクヒュー「ハッキングが好きだから」『フォーブス』誌（1998 年 8 月 10 日号）を参照。 http: //www.forbes.com/forbes/1998/0810/6203094a.html ]
+//footnote[1][Josh McHugh, "For the Love of Hacking," Forbes (August 10, 1998) ジョッシュ・マクヒュー「ハッキングが好きだから」『フォーブス』誌（1998 年 8 月 10 日号）を参照。 @<href>{http://www.forbes.com/forbes/1998/0810/6203094a.html} ]
 
 //footnote[2][ストールマン（1986年）参照。]
 
@@ -156,9 +156,9 @@ AI ラボのストールマンの同期たちは、さらに寛大だ。1970 年
 
 //footnote[4][ジャーゴンファイルによれば、TECO という名前は当初テープ編集・修正プログラム（Tape Editor and Corrector）を表していた。[訳注:「テープ」とは当時の入出力装置である「紙テープ」のこと。\]]
 
-//footnote[5][Richard Stallman, "EMACS: The Extensible, Customizable, Display Editor," AI Lab Memo (1979) リチャード・ストールマン「EMACS: 拡張可能、カスタム化可能なディスプレー・エディター」AI ラボ・メモ（1979 年）を参照。私の引用は、このメモを更新した HTML 版からのもので、以下で参照できる。 http://www.gnu.org/software/emacs/emacs-paper.html ]
+//footnote[5][Richard Stallman, "EMACS: The Extensible, Customizable, Display Editor," AI Lab Memo (1979) リチャード・ストールマン「EMACS: 拡張可能、カスタム化可能なディスプレー・エディター」AI ラボ・メモ（1979 年）を参照。私の引用は、このメモを更新した HTML 版からのもので、以下で参照できる。 @<href>{http://www.gnu.org/software/emacs/emacs-paper.html} ]
 
-//footnote[6][Richard Stallman, "Emacs the Full Screen Editor" (1987) リチャード・ストールマン「Emacs フルスクリーンエディター」（1987年）を参照。 http://www.lysator.liu.se/history/garb/txt/87-1-emacs.txt ]
+//footnote[6][Richard Stallman, "Emacs the Full Screen Editor" (1987) リチャード・ストールマン「Emacs フルスクリーンエディター」（1987年）を参照。 @<href>{http://www.lysator.liu.se/history/garb/txt/87-1-emacs.txt} ]
 
 //footnote[7][同書]
 
@@ -170,7 +170,7 @@ AI ラボのストールマンの同期たちは、さらに寛大だ。1970 年
 
 //footnote[11][ストールマン（1979年）: #SEC34 を参照。[訳注: 注5で参照しているメモの脚注に、この配布に関する文章が見られる。\]]
 
-//footnote[12][1996年のオンライン・マガジン『MEME』誌とのインタビューで、ストールマンは、Scribe 売却の件にはうんざりだと漏らしたが、リードの名前には触れようとしなかった。「問題は、誰もこの学生の行為を咎めたり、罰しようとしなかったことです」とストールマンは言った。「その結果、他の人々も彼にならおうという気にさせられたんです。」『MEME』誌2.04 を参照。 http://memex.org/meme2-04.html ]
+//footnote[12][1996年のオンライン・マガジン『MEME』誌とのインタビューで、ストールマンは、Scribe 売却の件にはうんざりだと漏らしたが、リードの名前には触れようとしなかった。「問題は、誰もこの学生の行為を咎めたり、罰しようとしなかったことです」とストールマンは言った。「その結果、他の人々も彼にならおうという気にさせられたんです。」『MEME』誌2.04 を参照。 @<href>{http://memex.org/meme2-04.html} ]
 
 //footnote[13][Steven Levy, Hackers（Penguin USA [ペーパーバック\]、1984）（スティーブン・レビー『ハッカーズ』、工学社、1987 年、松田信子、古橋芳恵訳）を参照。]
 

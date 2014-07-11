@@ -143,17 +143,17 @@
 
 //footnote[1][RMS: 皮膚が日照不足になりうるとか、白い肌は「不健康」といった観念は、危険で誤った情報だ。ビタミンDを充分に摂取している限り、太陽にあたらなくても有害ではない。死亡原因にもなる皮膚のダメージになるのは、日光の浴びすぎである。]
 
-//footnote[2]["Grateful Dead Time Capsule: 1985-1995 North American Tour Grosses." を参照。 http://www.accessplace.com/gdtc/1197.htm ]
+//footnote[2]["Grateful Dead Time Capsule: 1985-1995 North American Tour Grosses." を参照。 @<href>{http://www.accessplace.com/gdtc/1197.htm} ]
 
-//footnote[3][Evan Leibovitch, "Who's Afraid of Big Bad Wolves," ZDNet Tech Update (December 15, 2000)  を参照。 http://www.zdnet.com/news/whos-afraid-of-the-big-bad-wolves/298394 ]
+//footnote[3][Evan Leibovitch, "Who's Afraid of Big Bad Wolves," ZDNet Tech Update (December 15, 2000)  を参照。 @<href>{http://www.zdnet.com/news/whos-afraid-of-the-big-bad-wolves/298394} ]
 
-//footnote[4][叙述の都合上、私はストールマンによるソフトウェアの「自由」の完全な定義の説明に深入りすることをためらった。GNU プロジェクトのウェブサイトには、四つの基本要素が列挙されている。 「プログラムを走行させる自由、目的は問わない(自由 0)。」「プログラムがどのように働いているかを調べる自由、また、それを自分の必要に適合させる自由(自由 1)。」「隣人の役に立つようにプログラムのコピーを再配布する自由(自由 2)。」「プログラムを改良し、改良を公けにリリースし、コミュニティ全体が利益を受けるようにする自由(自由 3)。」より多くの情報を得るには、次の "The Free Software Definition" （自由ソフトウェアの定義）を訪ねられたし。 http://www.gnu.org/philosophy/free-sw.html ]
+//footnote[4][叙述の都合上、私はストールマンによるソフトウェアの「自由」の完全な定義の説明に深入りすることをためらった。GNU プロジェクトのウェブサイトには、四つの基本要素が列挙されている。 「プログラムを走行させる自由、目的は問わない(自由 0)。」「プログラムがどのように働いているかを調べる自由、また、それを自分の必要に適合させる自由(自由 1)。」「隣人の役に立つようにプログラムのコピーを再配布する自由(自由 2)。」「プログラムを改良し、改良を公けにリリースし、コミュニティ全体が利益を受けるようにする自由(自由 3)。」より多くの情報を得るには、次の "The Free Software Definition" （自由ソフトウェアの定義）を訪ねられたし。 @<href>{http://www.gnu.org/philosophy/free-sw.html} ]
 
-//footnote[5][Eric Raymond, "Shut Up and Show Them the Code," online essay, (June 28, 1999) エリック・レイモンド、『黙ってソースコードを見せな』（オンライン・エッセイ）を参照。 http://www.tuxedo.org/~esr/writings/shut-up-and-show-them.html http://www.yamdas.org/column/technique/shutupj.html（日本語訳 yomoyomo）]
+//footnote[5][Eric Raymond, "Shut Up and Show Them the Code," online essay, (June 28, 1999) エリック・レイモンド、『黙ってソースコードを見せな』（オンライン・エッセイ）を参照。 @<href>{http://www.tuxedo.org/~esr/writings/shut-up-and-show-them.html} @<href>{http://www.yamdas.org/column/technique/shutupj.html}（日本語訳 yomoyomo）]
 
 //footnote[6][同書。]
 
-//footnote[7]["Guest Interview: Eric S. Raymond," Linux.com (May 18, 1999) を参照。 http://www.linux.com/interviews/19990518/8/ ]
+//footnote[7]["Guest Interview: Eric S. Raymond," Linux.com (May 18, 1999) を参照。 @<href>{http://www.linux.com/interviews/19990518/8/} ]
 
 //footnote[8][RMS: ウィリアムズは、心理学的なものとして扱うことにより、グルーチョの有名な言葉を誤解している。それは露骨なユダヤ人差別をしていた多くのクラブの仕事を言っていた。ユダヤ人差別は、クラブがグルーチョを会員にしない理由でもあった。私は、母に教えられるまで、どちらも知らなかった。ウィリアムズや私は、偏見が地下に葬られてから育った。そして、グルーチョがしたようにユーモアでつつんで婉曲な偏見批判をする必要がない。]
 

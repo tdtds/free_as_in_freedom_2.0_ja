@@ -262,27 +262,27 @@ comp.os.minix ニュースグループへの最初のメールメッセージが
 
 ==== 後注
 
-//footnote[1][Hal Abelson, Mike Fischer, and Joanne Costello, "Software and Copyright Law," の改訂版 (1998) を参照。 http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/software-copyright.html ]
+//footnote[1][Hal Abelson, Mike Fischer, and Joanne Costello, "Software and Copyright Law," の改訂版 (1998) を参照。 @<href>{http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/software-copyright.html} ]
 
-//footnote[2][trn キットの README を参照。 http://stuff.mit.edu/afs/sipb/project/trn/src/trn-3.6/README ]
+//footnote[2][trn キットの README を参照。 @<href>{http://stuff.mit.edu/afs/sipb/project/trn/src/trn-3.6/README} ]
 
 //footnote[3][著者へのジョン・ギルモアの e メールから引用。]
 
-//footnote[4][リチャード・ストールマン他、『GNU一般公衆ライセンス 第１版』(1989年2月) を参照。 http://www.gnu.org/licenses/old-licenses/gpl-1.0.html ]
+//footnote[4][リチャード・ストールマン他、『GNU一般公衆ライセンス 第１版』(1989年2月) を参照。 @<href>{http://www.gnu.org/licenses/old-licenses/gpl-1.0.html} ]
 
-//footnote[5][David Betz and Jon Edwards, "Richard Stallman discusses his publicdomain [sic\] Unix-compatible software system with BYTE editors," BYTE (July, 1986) デイビット・ベッツ、ジョン・エドワード「リチャード・ストールマンがバイト誌編集者と彼のパブリック・ドメインの[原文のまま\] Unix 互換ソフトウェアシステムについて語る」BYTE 誌 (1996 年 7 月) を参照。(GNU プロジェクトのウェブサイトに再録されている) http://www.gnu.org/gnu/byte-interview.html / このインタビューは、GNU プロジェクトを始めた頃のストールマンの政治姿勢について、 率直さはもちろんだが、興味深いものを垣間見せてくれる。 ストールマンの言い回しの変化を跡付けるためにも有益だ。 GPL の目的を説明するために、ストールマンは次のように言っている。「ぼくは、知識と情報一般に人がアプローチする方法を変えようとしている。知識を私物化しようとすること、人が知識を使っていいかどうかをコントロールしようとすること、他人が知識を共有しようとするのをやめさせること、これらは生産妨害だと思う。」 / これと 2000 年 8 月の著者への次の言葉とを対比されたい。「あなたの思考の中で『知的財産』という用語を使わないように説得したい。それは事態を誤解するように導くでしょう。なぜなら、その用語は、著作権、特許権、商標権を一緒くたにしているからです。これらの効果は非常に異なっています。それらを同時に語ろうとするのは全く馬鹿げています。もし誰かが知的財産について、カッコ付きじゃなくて何か言っているときは、その人はとても不明瞭に考えているので同調すべきじゃないのです。」[RMS: その対比は、私が一般化をもっと慎重にするように学んだことを示している。今日では、おそらく私は「知識の私物化」について語らないだろう、それは非常に広い観念だからだ。しかし「知識の私物化」は「知的財産」と同じような一般化ではなく、これら三つの法律の間の違いは、知識の私物化に関する法的問題の理解に決定的に重要だ。特許権は、一定の知識を使うことへの直接的独占だ。それは実に「知識の私物化」の一形態である。著作権は、知識を具体的に示したり解説する作品の共有を妨げるために使われる手法の一つで、全く別のことである。他方、商標は、知識という主題にはほとんど関係がない。\]]
+//footnote[5][David Betz and Jon Edwards, "Richard Stallman discusses his publicdomain [sic\] Unix-compatible software system with BYTE editors," BYTE (July, 1986) デイビット・ベッツ、ジョン・エドワード「リチャード・ストールマンがバイト誌編集者と彼のパブリック・ドメインの[原文のまま\] Unix 互換ソフトウェアシステムについて語る」BYTE 誌 (1996 年 7 月) を参照。(GNU プロジェクトのウェブサイトに再録されている) @<href>{http://www.gnu.org/gnu/byte-interview.html} / このインタビューは、GNU プロジェクトを始めた頃のストールマンの政治姿勢について、 率直さはもちろんだが、興味深いものを垣間見せてくれる。 ストールマンの言い回しの変化を跡付けるためにも有益だ。 GPL の目的を説明するために、ストールマンは次のように言っている。「ぼくは、知識と情報一般に人がアプローチする方法を変えようとしている。知識を私物化しようとすること、人が知識を使っていいかどうかをコントロールしようとすること、他人が知識を共有しようとするのをやめさせること、これらは生産妨害だと思う。」 / これと 2000 年 8 月の著者への次の言葉とを対比されたい。「あなたの思考の中で『知的財産』という用語を使わないように説得したい。それは事態を誤解するように導くでしょう。なぜなら、その用語は、著作権、特許権、商標権を一緒くたにしているからです。これらの効果は非常に異なっています。それらを同時に語ろうとするのは全く馬鹿げています。もし誰かが知的財産について、カッコ付きじゃなくて何か言っているときは、その人はとても不明瞭に考えているので同調すべきじゃないのです。」[RMS: その対比は、私が一般化をもっと慎重にするように学んだことを示している。今日では、おそらく私は「知識の私物化」について語らないだろう、それは非常に広い観念だからだ。しかし「知識の私物化」は「知的財産」と同じような一般化ではなく、これら三つの法律の間の違いは、知識の私物化に関する法的問題の理解に決定的に重要だ。特許権は、一定の知識を使うことへの直接的独占だ。それは実に「知識の私物化」の一形態である。著作権は、知識を具体的に示したり解説する作品の共有を妨げるために使われる手法の一つで、全く別のことである。他方、商標は、知識という主題にはほとんど関係がない。\]]
 
-//footnote[6][カリフォルニア大学の「うざったい広告条項」は、その後、問題があることが明らかになった。ハッカーの中には、GPL より自由放任な代替ライセンスを求めて、カリフォルニア大学のライセンスを使う者がいた。このとき、「カリフォルニア大学」というところだけ自分自身や自分の組織の名前に置き換えた。その結果、これらのプログラムを多数使った自由ソフトウェア・システムは、広告の名前を数十個も引用しなければならなくなったのだ。1999 年、ストールマン側の数年がかりの働きかけを経て、カリフォルニア大学はこの条項を削ることに同意した。BSD ライセンスが抱える問題を参照。 http://www.gnu.org/philosophy/bsd.ja.html ]
+//footnote[6][カリフォルニア大学の「うざったい広告条項」は、その後、問題があることが明らかになった。ハッカーの中には、GPL より自由放任な代替ライセンスを求めて、カリフォルニア大学のライセンスを使う者がいた。このとき、「カリフォルニア大学」というところだけ自分自身や自分の組織の名前に置き換えた。その結果、これらのプログラムを多数使った自由ソフトウェア・システムは、広告の名前を数十個も引用しなければならなくなったのだ。1999 年、ストールマン側の数年がかりの働きかけを経て、カリフォルニア大学はこの条項を削ることに同意した。BSD ライセンスが抱える問題を参照。 @<href>{http://www.gnu.org/philosophy/bsd.ja.html} ]
 
-//footnote[7][Michael Tiemann, "Future of Cygnus Solutions: An Entrepreneur's Account," Open Sources (O'Reilly & Associates, Inc., 1999): 139 マイケル・ティーマン、「シグナスソリューションズ社の将来性」『オープンソース』（1999年、オライリー・ジャパン）143 ページを参照。 http://www.oreilly.com/catalog/opensources/book/tiemans.html ]
+//footnote[7][Michael Tiemann, "Future of Cygnus Solutions: An Entrepreneur's Account," Open Sources (O'Reilly & Associates, Inc., 1999): 139 マイケル・ティーマン、「シグナスソリューションズ社の将来性」『オープンソース』（1999年、オライリー・ジャパン）143 ページを参照。 @<href>{http://www.oreilly.com/catalog/opensources/book/tiemans.html} ]
 
 //footnote[8][リチャード・ストールマン、BYTE誌 (1986 年) 参照。]
 
-//footnote[9][『HURD の歴史』を参照。 http://www.gnu.org/software/hurd/history.html ]
+//footnote[9][『HURD の歴史』を参照。 @<href>{http://www.gnu.org/software/hurd/history.html} ]
 
-//footnote[10][プログラミングの自由同盟プレスリリースによれば、この抗議行動は、十六進プロテスト数え唄が始めて歌われたことで著名である。『1-2-3-4、弁護士はドアから外に放り出せ / 5-6-7-8、発明しろ（innovate）、訴訟（litigate）をするな / 9-A-B-C、1-2-3 はいらないぞ / D-E-F-O、ルックアンドフィールはもうお仕舞い』 http://progfree.org/Links/prep.ai.mit.edu/demo.final.release ]
+//footnote[10][プログラミングの自由同盟プレスリリースによれば、この抗議行動は、十六進プロテスト数え唄が始めて歌われたことで著名である。『1-2-3-4、弁護士はドアから外に放り出せ / 5-6-7-8、発明しろ（innovate）、訴訟（litigate）をするな / 9-A-B-C、1-2-3 はいらないぞ / D-E-F-O、ルックアンドフィールはもうお仕舞い』 @<href>{http://progfree.org/Links/prep.ai.mit.edu/demo.final.release} ]
 
-//footnote[11][Reuven Lerner, "Stallman wins $240,000 MacArthur award," MIT, The Tech (July 18, 1990) を参照。 http://the-tech.mit.edu/V110/N30/rms.30n.html ]
+//footnote[11][Reuven Lerner, "Stallman wins $240,000 MacArthur award," MIT, The Tech (July 18, 1990) を参照。 @<href>{http://the-tech.mit.edu/V110/N30/rms.30n.html} ]
 
 //footnote[12][Michael Gross, "Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-certified Genius" (1999) マイケル・グロス、「リチャード・ストールマン。高校の不適応者、自由ソフトウェアのシンボル、マッカーサー奨学金の天才」(1999 年) を参照。]
 
@@ -304,7 +304,7 @@ comp.os.minix ニュースグループへの最初のメールメッセージが
 
 //footnote[21][前掲書、152-153 頁]
 
-//footnote[22][Robert Young, "Interview with Linus, the Author of Linux," Linux Journal (March 1, 1994) ロバート・ヤング、「リナックスの作者リーナスとのインタビュー」リナックス・ジャーナル（1994 年 3 月 1 日号）を参照。 http://www.linuxjournal.com/article/2736 ]
+//footnote[22][Robert Young, "Interview with Linus, the Author of Linux," Linux Journal (March 1, 1994) ロバート・ヤング、「リナックスの作者リーナスとのインタビュー」リナックス・ジャーナル（1994 年 3 月 1 日号）を参照。 @<href>{http://www.linuxjournal.com/article/2736} ]
 
 //footnote[23][リーナス・トーバルズ、デイビッド・ダイアモンド共著「それがぼくには楽しかったから」（小学館プロダクション、2001 年）99 頁を参照。]
 
